@@ -40,3 +40,4 @@ ALFRED is a web application designed to support police operations by offering a 
 <p align='center'>
     <img src='/images/Techstack.png' alt='Tech_Stack'>
 </p>
+![alt text](image.png)
